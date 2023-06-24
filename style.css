@@ -1,0 +1,274 @@
+.top {
+    width: 1440px;
+    height: 81px;
+    background: #2E94CC;
+}
+.mohamed{
+    background-color: #fff;
+    height: 1900px
+}
+.haspalla{
+    
+    padding-left: 21%;
+
+}
+
+.position {
+    
+    
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 80px;
+}
+
+.ww {
+    
+Font-family: "Nunito";
+
+Font-size: 12px;
+margin-top: 100px;
+Line-height: 110%;
+text-align: left;
+Vertical-align: Top;
+
+}
+.linkedin{
+  
+    left: 1100px;
+  margin-top: -10px;
+   }
+
+.qq {
+   
+    width: 797px;
+    height: 58px;
+    left: 294px;
+    top: 176px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    margin-top: -2px;
+    letter-spacing: 0.015em;
+    
+}
+
+.ee {
+    
+    width: 105px;
+    height: 22px;
+    left: 294px;
+    top: 280px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    
+
+}
+
+.ii {
+    
+    left: 303px;
+    top: 327px;
+
+
+}
+
+.tt {
+  
+    width: 684px;
+    height: 79px;
+    padding-left: 38px;
+
+    top: 756px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000
+}
+
+.yy {
+    
+    width: 680px;
+    height: 99px;
+    padding-left: 38px;
+    top: 831px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+
+}
+
+.uu {
+
+    color: #2E94CC;
+
+}
+
+.oo {
+   
+    width: 340px;
+    height: 24px;
+    padding-left: 38px;
+    top: 947px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    
+}
+
+.aa {
+    
+    width: 680px;
+    height: 73px;
+    left: 380px;
+    top: 994px;
+    padding-left: 38px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+
+.ss {
+    
+    left: 397px;
+    top: 1090px;
+    padding-left: 78px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+
+.dd {
+    
+    width: 680px;
+    height: 96px;
+    left: 381px;
+    padding-left: 38px;
+    top: 1185px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  
+}
+
+.io {
+   
+    left: 380px;
+    top: 1328px;
+
+}
+
+.ll {
+
+    width: 148px;
+    height: 27px;
+    left: 395px;
+    top: 1731px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+   
+
+}
+
+.cc {
+    width: 720px;
+    height: 173px;
+    left: 380px;
+    top: 1711px;
+    background: #F1F1F1;
+    margin-top: 40px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.ahmed {
+    
+    width: 384px;
+    height: 20px;
+    left: 395px;
+    top: 1771px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #2E94CC;
+}
+
+.vv {
+    
+    width: 384px;
+    height: 20px;
+    left: 395px;
+    top: 1806px;
+
+    
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    
+
+    text-decoration-line: underline;
+
+    color: #2E94CC;
+}
+
+
+body {
+   
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    Width: 1440px;
+    Height: 1954px;
+  
+   
+    background-color: #E5E5E5;
+
+    
+}
+
+.UI-kit {
+    Font-family: SF Pro Display;
+    Font-style: Bold;
+    Font-size: 46px;
+    Line-height: 28px;
+    align-items: Left;
+    Vertical-align: Center;
+
+}
+
+.c {
+    margin: auto;
+    width: 70%;
+    top: 30px;
+    background-color: #F8F8FF;
+}
